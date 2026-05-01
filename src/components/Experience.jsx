@@ -49,7 +49,7 @@ export default function Experience() {
     <section id="experience" aria-label="Experience">
       <div className="wrap">
         <div className="sec-head reveal">
-          <span className="sec-num">05 —</span>
+          <span className="sec-num">06 —</span>
           <h2>Experience & ecosystem.</h2>
         </div>
 

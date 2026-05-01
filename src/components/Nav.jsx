@@ -7,6 +7,7 @@ export default function Nav() {
       </a>
       <ul className="nav-links">
         <li><a href="#process">What I Do</a></li>
+        <li><a href="#signal-desk">Signal Desk</a></li>
         <li><a href="#ventures">Ventures</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#about">About</a></li>

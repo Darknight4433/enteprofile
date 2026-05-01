@@ -2,6 +2,7 @@ import { useReveal } from './hooks/useReveal';
 import Nav from './components/Nav';
 import Hero from './components/Hero';
 import Process from './components/Process';
+import SignalDesk from './components/SignalDesk';
 import Ventures from './components/Ventures';
 import Services from './components/Services';
 import About from './components/About';
@@ -19,6 +20,7 @@ export default function App() {
       <main>
         <Hero />
         <Process />
+        <SignalDesk />
         <Ventures />
         <Services />
         <About />

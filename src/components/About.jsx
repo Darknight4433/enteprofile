@@ -32,7 +32,7 @@ export default function About() {
     <section id="about" aria-label="About Abel Sebastian">
       <div className="wrap">
         <div className="sec-head reveal">
-          <span className="sec-num">04 —</span>
+          <span className="sec-num">05 —</span>
           <h2>About me.</h2>
         </div>
 

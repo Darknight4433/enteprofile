@@ -41,7 +41,7 @@ export default function Ventures() {
     <section id="ventures" aria-label="Ventures">
       <div className="wrap">
         <div className="sec-head reveal">
-          <span className="sec-num">02 —</span>
+          <span className="sec-num">03 —</span>
           <h2>Currently building.</h2>
         </div>
 

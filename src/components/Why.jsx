@@ -16,7 +16,7 @@ export default function Why() {
     <section id="why" aria-label="Why work with Abel Sebastian">
       <div className="wrap">
         <div className="sec-head reveal">
-          <span className="sec-num">06 —</span>
+          <span className="sec-num">07 —</span>
           <h2>Why work with me.</h2>
         </div>
 
