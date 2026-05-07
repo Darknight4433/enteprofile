@@ -1,3 +1,5 @@
+import profileImg from '../assets/profile.jpg';
+
 const traits = [
   {
     marker: 'Builder',
@@ -32,12 +34,14 @@ export default function About() {
     <section id="about" aria-label="About Abel Sebastian">
       <div className="wrap">
         <div className="sec-head reveal">
-          <span className="sec-num">04 —</span>
+          <span className="sec-num">05 —</span>
           <h2>About me.</h2>
         </div>
 
         <div className="about-layout">
           <div className="about-left reveal">
+            <img src={profileImg} alt="Abel Sebastian" className="about-image reveal d1" />
+            
             <blockquote className="manifesto">
               "Most startups don't fail because of bad ideas — they fail because of lack
               of execution, slow decision-making, and no access to real users. That's

@@ -27,7 +27,7 @@ export default function Services() {
     <section id="services" aria-label="Services">
       <div className="wrap">
         <div className="sec-head reveal">
-          <span className="sec-num">03 —</span>
+          <span className="sec-num">04 —</span>
           <h2>What I offer.</h2>
         </div>
 
