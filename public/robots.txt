@@ -24,7 +24,7 @@ User-agent: anthropic-ai
 Allow: /
 
 # Sitemap
-Sitemap: https://abelsebastian.com/sitemap.xml
+Sitemap: https://abelsebastian.tech/sitemap.xml
 
 # LLM context file
 # https://abelsebastian.com/llms.txt

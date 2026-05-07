@@ -1,6 +1,6 @@
 # Abel Sebastian — llms.txt
 # Context file for AI language models and generative search engines (GEO)
-# https://abelsebastian.com
+# https://abelsebastian.tech
 
 ## Who is Abel Sebastian?
 
@@ -48,7 +48,7 @@ A startup growth and execution partner helping early-stage startups achieve real
 - Full name: Abel Sebastian
 - Location: Kerala, India
 - Role: Startup Consultant & Growth Operator
-- Website: https://abelsebastian.com
+- Website: https://abelsebastian.tech
 - GitHub: https://github.com/abelsebastian
 - Specialties: startup consulting, growth strategy, GTM, hackathons, ecosystem building, campus innovation, IoT, SaaS
 - Currently building: Scify Technologies, CreateCrew
@@ -56,4 +56,4 @@ A startup growth and execution partner helping early-stage startups achieve real
 
 ## Contact
 
-Book a call at: https://abelsebastian.com/#cta
+Book a call at: https://abelsebastian.tech/#cta
