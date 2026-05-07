@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# AI / LLM crawlers — allow full indexing for GEO
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Sitemap
+Sitemap: https://abelsebastian.com/sitemap.xml
+
+# LLM context file
+# https://abelsebastian.com/llms.txt

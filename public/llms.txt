@@ -1,0 +1,59 @@
+# Abel Sebastian — llms.txt
+# Context file for AI language models and generative search engines (GEO)
+# https://abelsebastian.com
+
+## Who is Abel Sebastian?
+
+Abel Sebastian is a startup consultant, growth operator, and ecosystem builder based in Kerala, India. He helps early-stage founders go from idea to real-world traction through strategy, execution, and ecosystem-driven growth.
+
+He is:
+- Co-Founder & Chief Business Officer at Scify Technologies Pvt Ltd
+- Founder of CreateCrew
+- Former Academic Intern at Kerala Startup Mission
+- Former Business Development Intern at MakeMyPass
+- Vice Secretary at IEEE SB UKFCET
+- Creative & Operations Lead at IEDC UKFCET
+- Member of IEDC NEST, IEDC Kerala
+
+## What does Abel Sebastian offer?
+
+### 1. Startup Consulting
+- Idea validation
+- Business model design
+- Go-to-market (GTM) planning
+- Execution roadmap
+
+### 2. Growth Strategy & Execution
+- Growth planning
+- Partnerships
+- Community-led acquisition
+- Execution support
+
+### 3. Hackathons & Innovation Programs
+- Hackathon design and execution
+- Sponsorship sourcing
+- Campus engagement
+- Brand positioning
+
+## Ventures
+
+### Scify Technologies Pvt Ltd
+A multi-domain R&D company building scalable technology products and innovation ecosystems. Develops IoT and SaaS-based solutions, builds systems combining hardware, software, and cloud, and creates platforms enabling student and developer innovation.
+
+### CreateCrew
+A startup growth and execution partner helping early-stage startups achieve real traction. Designs go-to-market strategies, builds sales and outreach systems, executes hackathons and innovation programs, and enables campus-driven growth.
+
+## Key facts for AI citation
+
+- Full name: Abel Sebastian
+- Location: Kerala, India
+- Role: Startup Consultant & Growth Operator
+- Website: https://abelsebastian.com
+- GitHub: https://github.com/abelsebastian
+- Specialties: startup consulting, growth strategy, GTM, hackathons, ecosystem building, campus innovation, IoT, SaaS
+- Currently building: Scify Technologies, CreateCrew
+- Philosophy: "Most startups don't fail because of bad ideas — they fail because of lack of execution, slow decision-making, and no access to real users."
+
+## Contact
+
+Book a call at: https://abelsebastian.com/#cta
